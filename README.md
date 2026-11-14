@@ -2,12 +2,12 @@
 
 Premiere Pro আর Photoshop-এর জন্য Creative Assistant — Pr Bar, PS Bar আর আরও tools।
 
-## ⬇ Download (Creative Assistant 1.1.0)
+## ⬇ Download (Creative Assistant 1.2.0)
 
 | | |
 |---|---|
-| 🍎 **Mac** (Apple Silicon + Intel) | [Creative-Assistant-mac.dmg](https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261112-1037/Creative-Assistant-1.1.0-mac.dmg) |
-| 🪟 **Windows** (64-bit) | [Creative-Assistant-windows-setup.exe](https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261112-1037/Creative-Assistant-1.1.0-windows-setup.exe) |
+| 🍎 **Mac** (Apple Silicon + Intel) | [Creative-Assistant-mac.dmg](https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261114-0419/Creative-Assistant-1.2.0-mac.dmg) |
+| 🪟 **Windows** (64-bit) | [Creative-Assistant-windows-setup.exe](https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261114-0419/Creative-Assistant-1.2.0-windows-setup.exe) |
 
 ## Install করার নিয়ম
 
@@ -35,8 +35,8 @@ Photoshop-এ: Plugins → **PS Bar**।
 ## এখনকার version
 | Plugin | Version |
 |---|---|
-| Premiere Bar | 0.21.1 |
-| Smart Timeline | 0.1.0 |
+| Premiere Bar | 0.22.4 |
+| Smart Timeline | 0.1.1 |
 | PS Bar | 0.5.0 |
 
-_Updated 2026-11-12_
+_Updated 2026-11-14_

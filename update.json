@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-12T11:05:37.253Z",
+  "updated": "2026-11-14T04:21:20.221Z",
   "manager": {
-    "version": "1.1.0",
-    "mac": "https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261112-1037/Creative-Assistant-1.1.0-mac.dmg",
-    "win": "https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261112-1037/Creative-Assistant-1.1.0-windows-setup.exe",
-    "notes": "নতুন: Pr Sound (ফ্রি sound effect ও music, In/Out কেটে timeline-এ টেনে বসান), Pr Text-এ text-এর সাথে sound effect, নতুন text Assalamu Alaikum, mouse রাখলে preview আর ছোট-বড় করার slider। Pr Bar-এ Dock-এর মতো zoom ও নাম, ⚙ settings, 🔔 notification, বড় panel-এ tool পাশেই খোলে, icon টেনে সাজানো যায়। Window → Extensions-এ শুধু Pr Bar। Voice Enhance external drive-এ কাজ করে (folder: Voice Enhance)। Pr Subtitle speed বদলানো clip-এও কাজ করে। নতুন আলাদা tool: Smart Timeline (After Effects-এর মতো timeline)। Update-এর পর Premiere restart করুন।"
+    "version": "1.2.0",
+    "mac": "https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261114-0419/Creative-Assistant-1.2.0-mac.dmg",
+    "win": "https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261114-0419/Creative-Assistant-1.2.0-windows-setup.exe",
+    "notes": "নতুন: Silent Cut (চুপ অংশ কেটে ফেলা, Jump Cut Zoom, Smooth Cut, J/L Cut), Label (এক click-এ clip-এর রং), বড় Pr Bar-এ Tools ▾। Smart Timeline ও CA Captions আপাতত Coming soon। Update শেষ হলে Premiere আবার খুলুন।"
   },
   "products": [
     {
       "id": "com.creativeassistant.premierebar",
       "name": "Premiere Bar",
-      "description": "A slim toolbar for Premiere Pro, like the Tools panel. Sequence Option: pick a size (16:9, 4:5, 9:16 or custom) and a frame rate; the new sequence is named after the project (e.g. 47.1 (9x16)). Adjustment Layer: adds an adjustment layer over the In/Out range, the selected clips, or 5 seconds from the playhead, on a free track above. PR Organizer: sorts project files into Video, Audio, Images, Graphics and Sequences bins, and puts files no sequence uses into a red \"Delete if you want\" bin. Text: ready-made titles (English and Bangla) you can double-click or drag onto the timeline, with a matching sound effect (switch it on or off). Voice Enhance: enhance the voice of the selected clips (joined into one) or the entire timeline with Adobe Podcast (Speech/Music/Background sliders, WAV or MP3, live % and time) — the result goes on the track below and the originals are disabled. Needs Creative Assistant running. Pr Animate: After Effects-like animation in one click for the selected clips — text, photos, logos or video. In / Out (Fade, Fade Up, Slide, Pop, Bounce, Elastic, Zoom Out, Blur In, Wipe, Spin In), Loop (Pulse, Heartbeat, Float, Swing, Orbit, Spin, Blink), Wiggle (Wiggle, Wobble, Handheld, Jitter, Shake), and My presets (save your own animation and reuse it). Layers work together like in After Effects; click again to remove, Clear to reset. My Clips: save the In/Out part of any sequence (with its effects, texts and keyframes, and optionally a copy of the media) to your own library, then drag it onto the timeline or click to put it in the bin of any other project. Pr Track: motion tracking — box an object in a video clip (zoom in for small things), track it, and attach texts, PNGs or videos so they follow it (Position, Scale, Rotation, Smoothing, Motion blur). Needs Creative Assistant running. PR Paste: copy a picture anywhere (Chrome, Google, Finder), click PR Paste and it is saved next to the project and put straight into the Project panel; Shift-click also places it at the playhead on a free track, fitted to the frame. PR Snapshot: one click saves the frame at the playhead as a picture in the Project panel; Shift-click also places it at the playhead on a free track. Pr Subtitle: Bangla auto subtitles for the selected clips or the In/Out part — Reels style (the spoken word changes colour) or plain lines, with animation, and a chance to fix the text before it is placed. Uses your free Google Gemini key; needs Creative Assistant running. Black Fade: one click adds a soft black gradient at the bottom of the frame (the Iman Gadzhi look) over In/Out, the selected clips or 5 s; Shift-click to pick the side, size and darkness; change it later in Effect Controls. Tool Guide: point at any tool for a moment (or right-click it) to see a short video of how it works, with the steps written in Bangla under it; Bigger shows it large.",
+      "description": "A slim toolbar for Premiere Pro, like the Tools panel. Sequence Option: pick a size (16:9, 4:5, 9:16 or custom) and a frame rate; the new sequence is named after the project (e.g. 47.1 (9x16)). Adjustment Layer: adds an adjustment layer over the In/Out range, the selected clips, or 5 seconds from the playhead, on a free track above. PR Organizer: sorts project files into Video, Audio, Images, Graphics and Sequences bins, and puts files no sequence uses into a red \"Delete if you want\" bin. Text: ready-made titles (English and Bangla) you can double-click or drag onto the timeline, with a matching sound effect (switch it on or off). Voice Enhance: enhance the voice of the selected clips (joined into one) or the entire timeline with Adobe Podcast (Speech/Music/Background sliders, WAV or MP3, live % and time) — the result goes on the track below and the originals are disabled. Needs Creative Assistant running. Pr Animate: After Effects-like animation in one click for the selected clips — text, photos, logos or video. In / Out (Fade, Fade Up, Slide, Pop, Bounce, Elastic, Zoom Out, Blur In, Wipe, Spin In), Loop (Pulse, Heartbeat, Float, Swing, Orbit, Spin, Blink), Wiggle (Wiggle, Wobble, Handheld, Jitter, Shake), and My presets (save your own animation and reuse it). Layers work together like in After Effects; click again to remove, Clear to reset. My Clips: save the In/Out part of any sequence (with its effects, texts and keyframes, and optionally a copy of the media) to your own library, then drag it onto the timeline or click to put it in the bin of any other project. Pr Track: motion tracking — box an object in a video clip (zoom in for small things), track it, and attach texts, PNGs or videos so they follow it (Position, Scale, Rotation, Smoothing, Motion blur). Needs Creative Assistant running. PR Paste: copy a picture anywhere (Chrome, Google, Finder), click PR Paste and it is saved next to the project and put straight into the Project panel; Shift-click also places it at the playhead on a free track, fitted to the frame. PR Snapshot: one click saves the frame at the playhead as a picture in the Project panel; Shift-click also places it at the playhead on a free track. Pr Subtitle: Bangla auto subtitles for the selected clips or the In/Out part — Reels style (the spoken word changes colour) or plain lines, with animation, and a chance to fix the text before it is placed. Uses your free Google Gemini key; needs Creative Assistant running. Black Fade: one click adds a soft black gradient at the bottom of the frame (the Iman Gadzhi look) over In/Out, the selected clips or 5 s; Shift-click to pick the side, size and darkness; change it later in Effect Controls. Label: one click colour label for the selected clips (16 colours). Tool Guide: point at any tool for a moment (or right-click it) to see a short video of how it works, with the steps written in Bangla under it; Bigger shows it large. Silent Cut: select a talking clip and it finds the silent parts (shown in red on the waveform), cuts them out and closes the gaps; sliders for how quiet, how long and how much air to keep; optional Jump Cut Zoom, Smooth Cut (soft sound at each cut) and J/L Cut. Needs Creative Assistant running.",
       "host": "premiere",
       "category": "Plugins",
-      "version": "0.21.1",
+      "version": "0.22.4",
       "website": "",
       "thumbnail": "",
       "openHint": "Window → Extensions → Premiere Bar",
       "settings": "prbar",
       "signed": false,
-      "notes": "নতুন: Pr Sound (ফ্রি sound effect ও music, In/Out কেটে timeline-এ টেনে বসান), Pr Text-এ text-এর সাথে sound effect, নতুন text Assalamu Alaikum, mouse রাখলে preview আর ছোট-বড় করার slider। Pr Bar-এ Dock-এর মতো zoom ও নাম, ⚙ settings, 🔔 notification, বড় panel-এ tool পাশেই খোলে, icon টেনে সাজানো যায়। Window → Extensions-এ শুধু Pr Bar। Voice Enhance external drive-এ কাজ করে (folder: Voice Enhance)। Pr Subtitle speed বদলানো clip-এও কাজ করে। নতুন আলাদা tool: Smart Timeline (After Effects-এর মতো timeline)। Update-এর পর Premiere restart করুন।",
+      "notes": "নতুন: Silent Cut (চুপ অংশ কেটে ফেলা, Jump Cut Zoom, Smooth Cut, J/L Cut), Label (এক click-এ clip-এর রং), বড় Pr Bar-এ Tools ▾। Smart Timeline ও CA Captions আপাতত Coming soon। Update শেষ হলে Premiere আবার খুলুন।",
       "source": {
         "type": "url",
-        "url": "https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261112-1037/com.creativeassistant.premierebar-0.21.1.zip"
+        "url": "https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261114-0419/com.creativeassistant.premierebar-0.22.4.zip"
       }
     },
     {
@@ -31,7 +31,7 @@
       "description": "An After Effects-like timeline for the clips you select in Premiere. Timeline tab: each selected clip is a layer with Position, Scale, Rotation, Opacity and its effects; keyframes sit on time lanes — stopwatch on/off, add or remove a keyframe at the playhead, jump between keyframes, drag a keyframe to move it, Delete to remove it. Drag a number left/right to change it (Shift = faster, Alt = finer), double-click to type. Layers tab: a Photoshop-like layer list with each clip's effects, and its controls beside it. ＋ Effect adds any Premiere effect. Every change goes straight into the clip in Premiere.",
       "host": "premiere",
       "category": "Plugins",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "website": "",
       "thumbnail": "",
       "openHint": "Window → Extensions → Smart Timeline",
@@ -40,7 +40,8 @@
       "source": {
         "type": "url",
         "url": "https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261112-1037/com.creativeassistant.smarttimeline-0.1.0.zip"
-      }
+      },
+      "comingSoon": true
     },
     {
       "id": "com.creativeassistant.psbar",
