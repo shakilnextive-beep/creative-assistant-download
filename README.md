@@ -1,13 +1,13 @@
 # Creative Assistant
 
-Premiere Pro আর Photoshop-এর জন্য Creative Assistant — Pr Bar, PS Bar আর আরও tools।
+Premiere Pro আর Photoshop-এর জন্য Creative Assistant — Pr Kit, PS Bar আর আরও tools।
 
-## ⬇ Download (Creative Assistant 1.2.0)
+## ⬇ Download (Creative Assistant 1.3.0)
 
 | | |
 |---|---|
-| 🍎 **Mac** (Apple Silicon + Intel) | [Creative-Assistant-mac.dmg](https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261114-0419/Creative-Assistant-1.2.0-mac.dmg) |
-| 🪟 **Windows** (64-bit) | [Creative-Assistant-windows-setup.exe](https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261114-0419/Creative-Assistant-1.2.0-windows-setup.exe) |
+| 🍎 **Mac** (Apple Silicon + Intel) | [Creative-Assistant-mac.dmg](https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261116-1206/Creative-Assistant-1.3.0-mac.dmg) |
+| 🪟 **Windows** (64-bit) | [Creative-Assistant-windows-setup.exe](https://github.com/shakilnextive-beep/creative-assistant-download/releases/download/r20261116-1206/Creative-Assistant-1.3.0-windows-setup.exe) |
 
 ## Install করার নিয়ম
 
@@ -23,7 +23,7 @@ Premiere Pro আর Photoshop-এর জন্য Creative Assistant — Pr Bar,
 Photoshop-এ: Plugins → **PS Bar**।
 
 ## Update
-নতুন update এলে Pr Bar-এর ডান দিকের 🔔-এ (PS Bar-এ নামের পাশে) **লাল বিন্দু** দেখাবে। 🔔 → Update চাপলে Creative Assistant খুলবে,
+নতুন update এলে Pr Kit-এর ডান দিকের 🔔-এ (PS Bar-এ নামের পাশে) **লাল বিন্দু** দেখাবে। 🔔 → Update চাপলে Creative Assistant খুলবে,
 সেখানে **Update** চাপুন, তারপর Premiere / Photoshop একবার বন্ধ করে আবার খুলুন। এখানে আর আসতে হবে না।
 
 ## জরুরি কথা
@@ -35,8 +35,8 @@ Photoshop-এ: Plugins → **PS Bar**।
 ## এখনকার version
 | Plugin | Version |
 |---|---|
-| Premiere Bar | 0.22.4 |
+| Pr Kit | 0.22.15 |
 | Smart Timeline | 0.1.1 |
 | PS Bar | 0.5.0 |
 
-_Updated 2026-11-14_
+_Updated 2026-11-16_
