@@ -35,8 +35,8 @@ Photoshop-এ: Plugins → **PS Bar**।
 ## এখনকার version
 | Plugin | Version |
 |---|---|
-| Pr Kit | 0.22.15 |
+| Pr Kit | 0.22.20 |
 | Smart Timeline | 0.1.1 |
 | PS Bar | 0.5.0 |
 
-_Updated 2026-11-16_
+_Updated 2026-11-26_
